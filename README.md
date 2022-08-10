@@ -56,8 +56,8 @@
 
 ### Authors
 
-- `Osifodunrin Babatunde` <korshfod@gmail.com> [@orshfod](https://github.com/orshfod)
-- `Shodamola Taiwo`       <                  > [@emmatycom](https://github.com/emmatycom) 👨‍💻
+- `Osifodunrin Babatunde` <korshfod@gmail.com> [@orshfod] (https://github.com/orshfod)
+- `Shodamola Taiwo`       <                  > [@emmatycom] (https://github.com/emmatycom) 
 
 ## Tasks
 
