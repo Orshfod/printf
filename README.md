@@ -56,8 +56,8 @@
 
 ### Authors
 
-- `Bolatito Alaba` <beenjewel@gmail.com>
-- `Martins Akhivbareme` <izimartinz@gmail.com> [@Izimartin](https://github.com/Izimartin) 👨‍💻
+- `Osifodunrin Babatunde` <korshfod@gmail.com> [@orshfod](https://github.com/orshfod)
+- `Shodamola Taiwo`       <                  > [@emmatycom](https://github.com/emmatycom) 👨‍💻
 
 ## Tasks
 
